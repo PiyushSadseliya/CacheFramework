@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.hpe.cache.dymaniccache.TestDynamic" time="0.341" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.hpe.cache.dymaniccache.TestDynamic" time="0.35" errors="0" skipped="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="JOB_NAME" value="Cache_Framework_Testing"/>
@@ -27,9 +27,9 @@
     <property name="cobertura.report.format" value="xml"/>
     <property name="extractor.used" value="true"/>
     <property name="user.language" value="en"/>
-    <property name="BUILD_DISPLAY_NAME" value="#15"/>
+    <property name="BUILD_DISPLAY_NAME" value="#17"/>
     <property name="sun.boot.library.path" value="/opt/jdk1.8.0_77/jre/lib/amd64"/>
-    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="491edc20cec530ced9d24762b63a6fe016586dbd"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="d6e264bd54666d59e66cb8522c3af130eb58161c"/>
     <property name="java.version" value="1.8.0_77"/>
     <property name="user.timezone" value="Asia/Kolkata"/>
     <property name="SELINUX_ROLE_REQUESTED" value=""/>
@@ -37,8 +37,9 @@
     <property name="sun.arch.data.model" value="64"/>
     <property name="NODE_NAME" value="Node15"/>
     <property name="NLSPATH" value="/usr/dt/lib/nls/msg/%L/%N.cat"/>
+    <property name="RELEASE_SCM_BRANCH" value="REL-BRANCH-cacheImplement-2.5"/>
     <property name="java.endorsed.dirs" value="/opt/jdk1.8.0_77/jre/lib/endorsed"/>
-    <property name="BUILD_ID" value="15"/>
+    <property name="BUILD_ID" value="17"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -53,11 +54,11 @@
     <property name="java.vm.info" value="mixed mode"/>
     <property name="LESSOPEN" value="||/usr/bin/lesspipe.sh %s"/>
     <property name="os.version" value="3.10.0-327.el7.x86_64"/>
-    <property name="POM_VERSION" value="2.4"/>
+    <property name="POM_VERSION" value="2.5-SNAPSHOT"/>
     <property name="sun.font.fontmanager" value="sun.awt.X11FontManager"/>
     <property name="path.separator" value=":"/>
     <property name="java.vm.version" value="25.77-b03"/>
-    <property name="GIT_PREVIOUS_COMMIT" value="491edc20cec530ced9d24762b63a6fe016586dbd"/>
+    <property name="GIT_PREVIOUS_COMMIT" value="d6e264bd54666d59e66cb8522c3af130eb58161c"/>
     <property name="SHLVL" value="1"/>
     <property name="SELINUX_USE_CURRENT_RANGE" value=""/>
     <property name="_" value="/usr/bin/java"/>
@@ -70,9 +71,9 @@
     <property name="HOME" value="/home/jenkins"/>
     <property name="POM_GROUPID" value="com.hpe.cache"/>
     <property name="project.build.outputDirectory" value="/home/jenkins/node15/workspace/Cache_Framework_Testing/target/generated-classes/cobertura"/>
-    <property name="user.home" value="/home/jenkins"/>
     <property name="GIT_COMMITTER_NAME" value="PiyushSadseliya"/>
-    <property name="BUILD_TAG" value="jenkins-Cache_Framework_Testing-15"/>
+    <property name="user.home" value="/home/jenkins"/>
+    <property name="BUILD_TAG" value="jenkins-Cache_Framework_Testing-17"/>
     <property name="JENKINS_SERVER_COOKIE" value="85bdaef21038ffa8"/>
     <property name="HUDSON_URL" value="http://16.184.40.8/jenkins/"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -85,7 +86,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="/opt/apache-maven-3.3.9"/>
     <property name="java.class.path" value="/home/jenkins/node15/maven31-agent.jar:/opt/apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar:/opt/apache-maven-3.3.9/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main /opt/apache-maven-3.3.9 /home/jenkins/node15/slave.jar /home/jenkins/node15/maven31-interceptor.jar /home/jenkins/node15/maven3-interceptor-commons.jar 37796"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main /opt/apache-maven-3.3.9 /home/jenkins/node15/slave.jar /home/jenkins/node15/maven31-interceptor.jar /home/jenkins/node15/maven3-interceptor-commons.jar 53662"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PATH+JDK" value="/opt/jdk1.8.0_77/bin"/>
     <property name="java.vm.specification.version" value="1.8"/>
@@ -96,10 +97,10 @@
     <property name="java.io.tmpdir" value="/tmp"/>
     <property name="HUDSON_HOME" value="/home/jenkins/.jenkins"/>
     <property name="PATH+MAVEN" value="/opt/apache-maven-3.3.9/bin"/>
-    <property name="BUILD_URL" value="http://16.184.40.8/jenkins/job/Cache_Framework_Testing/15/"/>
+    <property name="BUILD_URL" value="http://16.184.40.8/jenkins/job/Cache_Framework_Testing/17/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="OLDPWD" value="/home/jenkins"/>
-    <property name="buildInfoConfig.propertiesFile" value="/tmp/buildInfo7234728148106833166.properties"/>
+    <property name="buildInfoConfig.propertiesFile" value="/tmp/buildInfo1803456842897129414.properties"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.ext.dirs" value="/opt/jdk1.8.0_77/jre/lib/ext:/usr/java/packages/lib/ext"/>
@@ -109,10 +110,11 @@
 "/>
     <property name="MAVEN_HOME" value="/opt/apache-maven-3.3.9"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="15"/>
+    <property name="BUILD_NUMBER" value="17"/>
     <property name="JENKINS_URL" value="http://16.184.40.8/jenkins/"/>
     <property name="GIT_BRANCH" value="origin/Testing"/>
-    <property name="GIT_COMMIT" value="491edc20cec530ced9d24762b63a6fe016586dbd"/>
+    <property name="GIT_COMMIT" value="d6e264bd54666d59e66cb8522c3af130eb58161c"/>
+    <property name="RELEASE_SCM_TAG" value="cacheImplement-2.5"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="LANG" value="en_US.UTF-8"/>
     <property name="maven3.interceptor" value="/home/jenkins/node15/maven31-interceptor.jar"/>
@@ -124,5 +126,5 @@
     <property name="GIT_URL" value="https://github.com/PiyushSadseliya/CacheFramework.git"/>
     <property name="XFILESEARCHPATH" value="/usr/dt/app-defaults/%L/Dt"/>
   </properties>
-  <testcase classname="com.hpe.cache.dymaniccache.TestDynamic" name="test" time="0.341"/>
+  <testcase classname="com.hpe.cache.dymaniccache.TestDynamic" name="test" time="0.35"/>
 </testsuite>
