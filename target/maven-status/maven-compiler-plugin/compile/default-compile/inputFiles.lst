@@ -1,6 +1,6 @@
-/home/jenkins/node15/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/staticcache/StaticCache.java
-/home/jenkins/node15/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/fifo/FifoCache.java
-/home/jenkins/node15/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/interf/CacheInterface.java
-/home/jenkins/node15/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/mainmethod/CacheMainMethods.java
-/home/jenkins/node15/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/dymaniccache/DynamicCache.java
-/home/jenkins/node15/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/lrucache/LRUCache.java
+/home/jenkins/.jenkins/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/interf/CacheInterface.java
+/home/jenkins/.jenkins/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/staticcache/StaticCache.java
+/home/jenkins/.jenkins/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/mainmethod/CacheMainMethods.java
+/home/jenkins/.jenkins/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/dymaniccache/DynamicCache.java
+/home/jenkins/.jenkins/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/fifo/FifoCache.java
+/home/jenkins/.jenkins/workspace/Cache_Framework_Testing/src/main/java/com/hpe/cache/lrucache/LRUCache.java

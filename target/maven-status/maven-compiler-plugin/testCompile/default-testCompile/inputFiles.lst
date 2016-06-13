@@ -1,4 +1,4 @@
-/home/jenkins/node15/workspace/Cache_Framework_Testing/src/test/java/com/hpe/cache/staticcache/StaticCacheTest.java
-/home/jenkins/node15/workspace/Cache_Framework_Testing/src/test/java/com/hpe/cache/dymaniccache/TestDynamic.java
-/home/jenkins/node15/workspace/Cache_Framework_Testing/src/test/java/com/hpe/cache/lrucache/LRUTest.java
-/home/jenkins/node15/workspace/Cache_Framework_Testing/src/test/java/com/hpe/cache/fifo/fifoTest.java
+/home/jenkins/.jenkins/workspace/Cache_Framework_Testing/src/test/java/com/hpe/cache/staticcache/StaticCacheTest.java
+/home/jenkins/.jenkins/workspace/Cache_Framework_Testing/src/test/java/com/hpe/cache/lrucache/LRUTest.java
+/home/jenkins/.jenkins/workspace/Cache_Framework_Testing/src/test/java/com/hpe/cache/fifo/fifoTest.java
+/home/jenkins/.jenkins/workspace/Cache_Framework_Testing/src/test/java/com/hpe/cache/dymaniccache/TestDynamic.java
