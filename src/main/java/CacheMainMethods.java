@@ -87,6 +87,7 @@ public static DynamicCache dc= new DynamicCache(2);
 		{
                  
 		 System.out.println("1.Add Cache\n2.Get Cache\n3.Delete Cache\n4.Update Cache\n5.Exit\n");
+		    System.out.println("1.Add Cache\n2.Get Cache\n3.Delete Cache\n4.Update Cache\n5.Exit\n");
 		 System.out.println("Enter your choice");
 		 ch=sc.nextInt();
 		 switch(ch)
