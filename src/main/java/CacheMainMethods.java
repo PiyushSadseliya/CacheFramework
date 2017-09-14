@@ -150,6 +150,8 @@ public static DynamicCache dc= new DynamicCache(2);
 			     fc.addCache(key, value);
 			     break;
 		 case 2:System.out.println("Enter the key");
+				 System.out.println("Enter the key");
+				 System.out.println("Enter the key");
 				key=sc.nextInt();
 				value=fc.getCache(key);
 				System.out.println(value);
