@@ -1,0 +1,7 @@
+/root/piyush/CacheFramework/src/main/java/com/hpe/cache/mainmethod/CacheMainMethods.java
+/root/piyush/CacheFramework/src/main/java/com/hpe/cache/interf/CacheInterface.java
+/root/piyush/CacheFramework/src/main/java/com/hpe/cache/fifo/FifoCache.java
+/root/piyush/CacheFramework/src/main/java/CacheMainMethods.java
+/root/piyush/CacheFramework/src/main/java/com/hpe/cache/staticcache/StaticCache.java
+/root/piyush/CacheFramework/src/main/java/com/hpe/cache/lrucache/LRUCache.java
+/root/piyush/CacheFramework/src/main/java/com/hpe/cache/dymaniccache/DynamicCache.java
